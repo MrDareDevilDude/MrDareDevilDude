@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MrDareDevilDude
-- 👀 I’m interested in aviation and dangerous stuff
-- 🌱 I’m currently learning modeling
-- 💞️ I’m looking to collaborate on geofs 
-- 📫 How to reach me call 911
+- 👀 I’m interested in aviation and dangerous stuff.
+- 🌱 I’m currently learning modeling.
+- 💞️ I’m looking to collaborate on geofs. 
+- 📫 You can reach me by commenting on my repository.
 
 <!---
 MrDareDevilDude/MrDareDevilDude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
