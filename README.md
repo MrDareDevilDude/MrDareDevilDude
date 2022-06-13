@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning modeling.
 - 💞️ I’m looking to collaborate on geo-fs. 
 - 📫 You can reach me by commenting on my repository.
-- I am on the geo-fs-aircrew
+- I am on the @geo-fs-aircrew
 -
 
 <!---
